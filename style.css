@@ -1,0 +1,27 @@
+.ranimg {
+    font-family: 'Libre Baskerville', serif;
+    color: whitesmoke;
+    text-align: center;
+    background-color: black;
+    width: 50%;
+    margin-left: 25%;
+
+}
+
+.meme {
+    border: 5px solid paleturquoise;
+    width: 100%;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+footer {
+    margin-top: 100px;
+}
